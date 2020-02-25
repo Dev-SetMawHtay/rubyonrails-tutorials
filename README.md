@@ -43,130 +43,130 @@ https://drive.google.com/file/d/1-H3Dy26mysBfhsNVovWfr_DaydYj-Hwa/view?usp=shari
 - 2.2 Users resource
 - 2.2.1 Explore the user page
 - 2.2.2 MVC behavior
--2.2.3 Disadvantages of Users resource
--2.3 Microposts resources
--2.3.1 Explore microposts
--2.3.2 the micro post micro to
--2.3.3 The user たくさんhas the micro post
--2.3.4 hierarchy of inheritance
--2.3.5 Deploy the application
--2.4 Finally
--2.4.1 Summary of this Chapter
+- 2.2.3 Disadvantages of Users resource
+- 2.3 Microposts resources
+- 2.3.1 Explore microposts
+- 2.3.2 the micro post micro to
+- 2.3.3 The user たくさんhas the micro post
+- 2.3.4 hierarchy of inheritance
+- 2.3.5 Deploy the application
+- 2.4 Finally
+- 2.4.1 Summary of this Chapter
 
 
 ## Chapter 3. Creating an almost static page
--3.1 Setup
--3.2 Static pages
--3.2.1 Generating a static page
--3.2.2 Static page adjustment
--3.3 Start with Testing
--3.3.1 First test
--3.3.2 Red
--3.3.3 Green
--3.3.4 Refactor
--3.4 A slightly dynamic page
--3.4.1 Testing the title (Red)
--3.4.2 Adding a title (Green)
--3.4.3 Layout and embedded Ruby (Refactor)
--3.4.4 Routing settings
--3.5 Finally
--3.5.1 Summary of this Chapter
--3.6 Advanced setup
--3.6.1 minitest reporters
--3.6.2 Test Automation with Guard
+- 3.1 Setup
+- 3.2 Static pages
+- 3.2.1 Generating a static page
+- 3.2.2 Static page adjustment
+- 3.3 Start with Testing
+- 3.3.1 First test
+- 3.3.2 Red
+- 3.3.3 Green
+- 3.3.4 Refactor
+- 3.4 A slightly dynamic page
+- 3.4.1 Testing the title (Red)
+- 3.4.2 Adding a title (Green)
+- 3.4.3 Layout and embedded Ruby (Refactor)
+- 3.4.4 Routing settings
+- 3.5 Finally
+- 3.5.1 Summary of this Chapter
+- 3.6 Advanced setup
+- 3.6.1 minitest reporters
+- 3.6.2 Test Automation with Guard
 
 ## Chapter 4 Rails-flavored Ruby
--4.1 Motivation
--4.1.1 Built-in helpers
--4.1.2 Custom helpers
--4.2 Strings and Methods
--4.2.1 Comments
--4.2.2 String
--4.2.3 Object and message passing
--4.2.4 Method definition
--4.2.5 title helper again
--4.3 Other data structures
--4.3.1 Array and range operators
--4.3.2 Block
--4.3.3 hashes and symbols
--4.3.4 CSS, again
--4.4 Classes in Ruby
--4.4.1 Constructor
--4.4.2 class inheritance
--4.4.3 Changing the built-in class
--4.4.4 Controller class
--4.4.5 User class
--4.5 Finally
--4.5.1 Summary of this Chapter
+- 4.1 Motivation
+- 4.1.1 Built-in helpers
+- 4.1.2 Custom helpers
+- 4.2 Strings and Methods
+- 4.2.1 Comments
+- 4.2.2 String
+- 4.2.3 Object and message passing
+- 4.2.4 Method definition
+- 4.2.5 title helper again
+- 4.3 Other data structures
+- 4.3.1 Array and range operators
+- 4.3.2 Block
+- 4.3.3 hashes and symbols
+- 4.3.4 CSS, again
+- 4.4 Classes in Ruby
+- 4.4.1 Constructor
+- 4.4.2 class inheritance
+- 4.4.3 Changing the built-in class
+- 4.4.4 Controller class
+- 4.4.5 User class
+- 4.5 Finally
+- 4.5.1 Summary of this Chapter
 
 
 ## Chapter 5 Creating Layouts
--5.1 Add structure
--5.1.1 Navigation
--5.1.2 Bootstrap and custom CSS
--5.1.3 partial
--5.2 Sass and the asset pipeline
--5.2.1 Asset pipeline
--5.2.2 Stylesheets with great syntax
--5.3 Layout links
--5.3.1 Contact page
--5.3.2 Rails root URL
--5.3.3 Named routes
--5.3.4 Testing the link
--5.4 User registration: first steps
--5.4.1 Users Controller
--5.4.2 User Registration URL
--5.5 Finally
--5.5.1 Summary of this Chapter
+- 5.1 Add structure
+- 5.1.1 Navigation
+- 5.1.2 Bootstrap and custom CSS
+- 5.1.3 partial
+- 5.2 Sass and the asset pipeline
+- 5.2.1 Asset pipeline
+- 5.2.2 Stylesheets with great syntax
+- 5.3 Layout links
+- 5.3.1 Contact page
+- 5.3.2 Rails root URL
+- 5.3.3 Named routes
+- 5.3.4 Testing the link
+- 5.4 User registration: first steps
+- 5.4.1 Users Controller
+- 5.4.2 User Registration URL
+- 5.5 Finally
+- 5.5.1 Summary of this Chapter
 
 
 ## Chapter 6 Creating User Models
--6.1 User model
--6.1.1 database migration
--6.1.2 model file
--6.1.3 Creating a user object
--6.1.4 Searching for user objects
--6.1.5 Update user objects
--6.2 Validate user
--6.2.1 Verify effectiveness
--6.2.2 Verify existence
--6.2.3 Verify length
--6.2.4 Validate format
--6.2.5 Verify uniqueness
--6.3 Add a secure password
--6.3.1 Hashed password
--6.3.2 User has secure password
--6.3.3 Minimum length of password
--6.3.4 User creation and authentication
--6.4 Finally
--6.4.1 Summary of this chapter
+- 6.1 User model
+- 6.1.1 database migration
+- 6.1.2 model file
+- 6.1.3 Creating a user object
+- 6.1.4 Searching for user objects
+- 6.1.5 Update user objects
+- 6.2 Validate user
+- 6.2.1 Verify effectiveness
+- 6.2.2 Verify existence
+- 6.2.3 Verify length
+- 6.2.4 Validate format
+- 6.2.5 Verify uniqueness
+- 6.3 Add a secure password
+- 6.3.1 Hashed password
+- 6.3.2 User has secure password
+- 6.3.3 Minimum length of password
+- 6.3.4 User creation and authentication
+- 6.4 Finally
+- 6.4.1 Summary of this chapter
 
 
 ## Chapter 7 User Registration
--7.1 show users
--7.1.1 Debugging and Rails environment
--7.1.2 Users resource
--7.1.3 debugger method
--7.1.4 Gravatar image and sidebar
--7.2 User registration form
--7.2.1form_for to use the
--7.2.2 Form HTML
--7.3 User registration failed
--7.3.1 Correct form
--7.3.2 Strong Parameters
--7.3.3 Error message
--7.3.4 Failure test
--7.4 Successful user registration
--7.4.1 Completing the registration form
--7.4.2 flash
--7.4.3 Actual user registration
--7.4.4 Successful test
--7.5 Professional Deployment
--7.5.1 SSL in production
--7.5.2 Web server for production environment
--7.5.3 deploying to production
--7.6 Finally
--7.6.1 Summary of this Chapter
+- 7.1 show users
+- 7.1.1 Debugging and Rails environment
+- 7.1.2 Users resource
+- 7.1.3 debugger method
+- 7.1.4 Gravatar image and sidebar
+- 7.2 User registration form
+- 7.2.1form_for to use the
+- 7.2.2 Form HTML
+- 7.3 User registration failed
+- 7.3.1 Correct form
+- 7.3.2 Strong Parameters
+- 7.3.3 Error message
+- 7.3.4 Failure test
+- 7.4 Successful user registration
+- 7.4.1 Completing the registration form
+- 7.4.2 flash
+- 7.4.3 Actual user registration
+- 7.4.4 Successful test
+- 7.5 Professional Deployment
+- 7.5.1 SSL in production
+- 7.5.2 Web server for production environment
+- 7.5.3 deploying to production
+- 7.6 Finally
+- 7.6.1 Summary of this Chapter
 
 
 Chapter 8. Basic Login Mechanism
