@@ -6,6 +6,8 @@ For reference , bonus $39 priced ruby on rails ebooks
 https://drive.google.com/file/d/1-H3Dy26mysBfhsNVovWfr_DaydYj-Hwa/view?usp=sharing
 
 
+#### You can learn official rubyonrails.org till chapter 3. Chapter 4 and later is paid course.
+
 # Ruby on Rails Learn Rails with examples
 
 4th edition table of contents
